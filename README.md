@@ -3,7 +3,7 @@ An introductory course on causal inference in the social sciences. Designed for 
 
 This repository contains detailed typed lecture notes, as well as computer exercises in R with solutions and datasets, for a ten-week course covering experiments, matching, instrumental variables, regression discontinuity, difference-in-differences and synthetic control. I find it helpful to teach lecture 1 to remind students about t tests, omitted variable bias, etc., but it could easily be skipped.
 
-The weekly exercises almost all involve students replicating results from well-known papers that use the techniques. I've provided worksheets (problem sets) as well as solutions and code for R. At some point I will get round to setting these up properly in R Markdown. The R code is mostly at a very introductory level and therefore suitable for those with minimal background in R. For instance, I do not use tidyverse for this course.
+The weekly exercises almost all involve students replicating results from well-known papers that use the techniques. I've provided worksheets (problem sets) as well as solutions and code for R. At some point I will get round to setting these up properly in R Markdown. The R code is mostly at a very introductory level and therefore suitable for those with minimal background in R. For instance, I do not use tidyverse for this course. My assignments do not tell students how to implement the code, but does provide hints to help them get started with new or tricky pieces of code.
 
 I am considering trying to publish this as a textbook, and therefore feedback on any errors and potential additions/improvements would be extremely welcome. You are also very welcome to use these materials for your courses.
 
