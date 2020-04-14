@@ -7,5 +7,6 @@ The weekly exercises almost all involve students replicating results from well-k
 
 Note that lectures 2-4, and some of 6, are designed to be read alongside Gerber and Green's "Field Experiments" textbook and occasionally reproduce equations from the book. Lectures 8 and 9 also contain some diagrams that were originally made by Teppei Yamamoto for a similar module at MIT. Having both taken and taught various iterations of causal inference modules at MIT and UCL, it is very possible that some other borrowings have made their way into these lecture notes and exercises: please let me know if anyone else deserves crediting!
 
-Tom O'Grady
+Tom O'Grady (Assistant Professor in Political Science, UCL)
+
 14th April 2020
